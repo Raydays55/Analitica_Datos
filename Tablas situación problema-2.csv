@@ -1,0 +1,80 @@
+Num Fact,Cte,Producto,Cantidad,Unidad,Precio Unitario
+231,Alamcenes del Fruto,Limpiador,5,Litro, $190.00 
+232,Julián Carrizoza,Desinfectante,3,Litro, $120.00 
+232,Julián Carrizoza,Plumero,5,Pieza, $73.00 
+232,Julián Carrizoza,Tela,1,Metro cuadrado, $17.00 
+233,JoseMary Productos,Desengrasante,5,Litro, $57.00 
+234,Libia Gómez Sánchez,Aspiradora,1,Pieza," $2,500.00 "
+234,Libia Gómez Sánchez,Esponja,4,Paquete de 3, $15.00 
+235,Abarrotes de la esquina,Toalla,2,Pieza, $55.00 
+236,Alamcenes del Fruto,Desinfectante,2,Litro, $120.00 
+236,Alamcenes del Fruto,Esponja,2,Paquete de 3, $15.00 
+237,Alamcenes del Fruto,Protector,1,Litro, $305.00 
+238,Julián Carrizosa,Recogedor,4,Pieza, $60.00 
+239,Julián Carrizosa,Multiusos,2,Litro, $250.00 
+240,Patricia Alvarado Rueda,Plumero,5,Pieza, $73.00 
+240,Patricia Alvarado Rueda,Protector,1,Litro, $305.00 
+240,Patricia Alvarado Rueda,Tela,1,Metro cuadrado, $17.00 
+240,Patricia Alvarado Rueda,Toalla,3,Pieza, $55.00 
+241,Cienfuegos Producciones,Recogedor,2,Pieza, $60.00 
+242,JoseMary Productos,Toalla,1,Pieza, $55.00 
+243,Patricia Alvarado Rueda,Aspiradora,2,Pieza," $2,500.00 "
+244,Alamcenes del Fruto,Desinfectante,2,Litro, $120.00 
+244,Alamcenes del Fruto,Plumero,3,Pieza, $73.00 
+245,Luz María Del Río,Pulidor,4,Litro, $170.00 
+246,Bicicletas Guerreo,Esponja,3,Paquete de 3, $15.00 
+246,Bicicletas Guerreo,Pulidor,5,Litro, $170.00 
+247,Luz María Del Río,Plumero,2,Pieza, $73.00 
+248,Alamcenes del Fruto,Franela,1,Pieza, $23.00 
+248,Alamcenes del Fruto,Plumero,3,Pieza, $73.00 
+249,Bicicletas Guerrero,Franela,1,Pieza, $23.00 
+250,Abarrotes de la esquina,Aspiradora,1,Pieza," $2,500.00 "
+250,Abarrotes de la esquina,Desengrasante,2,Litro, $57.00 
+250,Abarrotes de la esquina,Franela,4,Pieza, $23.00 
+250,Abarrotes de la esquina,Plumero,4,Pieza, $73.00 
+251,Julián Carrizosa,Limpiador,1,Litro, $190.00 
+252,Julián Carrizosa,Tela,3,Metro cuadrado, $17.00 
+253,Abarrotes de la Esquina,Desengrasante,2,Litro, $57.00 
+254,Cienfuego Producciones,Desengrasante,5,Litro, $57.00 
+254,Cienfuego Producciones,Desinfectante,1,Litro, $120.00 
+254,Cienfuego Producciones,Limpiador,5,Litro, $190.00 
+254,Cienfuego Producciones,Plumero,2,Pieza, $73.00 
+255,JoseMary Productos,Limpiador,4,Litro, $190.00 
+256,JoseMari Productos,Desinfectante,4,Litro, $120.00 
+257,Cienfuego Producciones,Protector,4,Litro, $305.00 
+258,Luz María Del Río,Aspiradora,1,Pieza," $2,500.00 "
+259,Julián Carrizosa,Protector,2,Litro, $305.00 
+260,Abarrotes de la esquina,Pulidor,4,Litro, $170.00 
+261,Bicicletas Guerrero,Detergente,2,Kilogramo, $48.00 
+261,Bicicletas Guerrero,Recogedor,3,Pieza, $60.00 
+261,Bicicletas Guerrero,Tela,2,Metro cuadrado, $17.00 
+262,Bicicletas Guerreo,Toalla,4,Pieza, $55.00 
+263,Libia Gómez Sánchez,Plumero,1,Pieza, $73.00 
+264,Julián Carrizosa,Desinfectante,5,Litro, $120.00 
+265,Patricia Alvarado Rueda,Detergente,3,Kilogramo, $48.00 
+266,Abarrotes de la esquina,Aspiradora,2,Pieza," $2,500.00 "
+267,Patricia Alvarado Rueda,Desengrasante,2,Litro, $57.00 
+268,Libia Gómez Sánchez,Multiusos,2,Litro, $250.00 
+269,Luz María Del Río,Aspiradora,1,Pieza," $2,500.00 "
+269,Luz María Del Río,Desengrasante,2,Litro, $57.00 
+269,Luz María Del Río,Esponja,1,Paquete de 3, $15.00 
+269,Luz María Del Río,Franela,2,Pieza, $23.00 
+269,Luz María Del Río,Toalla,2,Pieza, $55.00 
+270,Abarrotes de la esquina,Detergente,4,Kilogramo, $48.00 
+271,Bicicletas Guerrero,Limpiador,1,Litro, $190.00 
+272,Bicicletas Guerrero,Limpiador,1,Litro, $190.00 
+273,JoseMary Productos,Desengrasante,1,Litro, $57.00 
+274,JoseMari Productos,Franela,4,Pieza, $23.00 
+275,Abarrotes de la esquina,Limpiador,1,Litro, $190.00 
+276,Cienfuego Produccions,Desinfectante,4,Litro, $120.00 
+276,Cienfuego Produccions,Multiusos,1,Litro, $250.00 
+277,Patricia Alvarado Rueda,Plumero,4,Pieza, $73.00 
+277,Patricia Alvarado Rueda,Protector,1,Litro, $305.00 
+278,Alamcenes del Fruto,Plumero,1,Pieza, $73.00 
+279,Alamcenes del Fruto,Desengrasante,5,Litro, $57.00 
+279,Alamcenes del Fruto,Desinfectante,3,Litro, $120.00 
+279,Alamcenes del Fruto,Tela,4,Metro cuadrado, $17.00 
+280,Bicicletas Guerrero,Multiusos,4,Litro, $250.00 
+281,Luz María Del Río,Plumero,4,Pieza, $73.00 
+282,JoseMary Productos,Franela,3,Pieza, $23.00 
+282,JoseMary Productos,Toalla,4,Pieza, $55.00 
